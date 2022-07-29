@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>MY WEB PAGE</title>
+	 <style type="text/css">
+	 h1{
+	     font-family:arial; 
+		 
+	  color:Red;
+	 }
+	 h2{font-family:arial;
+	 color:Blue;
+	 }
+	 h3{font-family:Times New Roman;
+	 color:green
+	 }
+	 h4{font-family:calibri;
+	 color:yellow
+	 }
+	 div{color:black;
+	 direction:ltr;
+	 text-decoration:underline;
+	 text-align:center;
+	 text-shadow: 2px 2px #ff0000
+	 }
+	 
+	 </style>
+</head>
+<body>
+<h1></h1>
+<h2>Internal Style Sheet</h2>
+<h3>Internal Style Sheet</h3>
+<h4>Internal Style Sheet</h4>
+<div>These are style sheet</div>
+ 
+ <a><img src="C:\Users\Public\Pictures\Sample Pictures.jpg" height="100" width="200"></a>
+ 
+</body>	 </img>
+</html>
